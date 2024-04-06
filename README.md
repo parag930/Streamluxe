@@ -33,9 +33,7 @@ React: React's component-based architecture makes it ideal for building complex 
 Redux Toolkit: Redux Toolkit simplifies state management for complex applications. It provides tools for creating actions, reducers, and managing asynchronous operations, keeping the data flow predictable and centralized.
 Node.js: Node.js is an excellent choice for building real-time applications due to its event-driven, non-blocking nature. It allows for handling user requests efficiently and responding to events related to video playback or user interactions.
 MongoDB: MongoDB's schema-less structure offers flexibility in storing data for various content types and user information. It scales well for handling large amounts of data and concurrent user requests.
-This project demonstrates your expertise in building a full-stack application using a popular frontend framework (React), a state management library (Redux Toolkit), a popular backend technology (Node.js), and a scalable database (MongoDB). It showcases your understanding of UI development, data management, and building a real-world application with streaming functionalities.
+This project demonstrates my ability in building a full-stack application using a popular frontend framework (React), a state management library (Redux Toolkit), a popular backend technology (Node.js), and a scalable database (MongoDB). It showcases your understanding of UI development, data management, and building a real-world application with streaming functionalities.
 
-Optional
 
-You can further elaborate on specific challenges you faced during development, like implementing video playback with different codecs or integrating payment gateways.  Mentioning how you tackled these challenges will showcase your problem-solving skills and ability to research and learn new technologies.
 
